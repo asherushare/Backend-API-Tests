@@ -11,7 +11,7 @@ Detailed documentation and usage examples
 Error handling and debugging tips
 Getting Started:
 
-Clone the repository: git clone https://github.com/yourusername/Backend-API-Tests.git
+Clone the repository: git clone https://github.com/asherushare/Backend-API-Tests.git
 Follow the setup instructions in the README.md file.
 Explore the examples and test scripts to learn and practice.
 Contributing:
