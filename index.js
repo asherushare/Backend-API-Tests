@@ -48,7 +48,7 @@ app.post('/posts', (req, res) => {
   let id = uuidv4();
   posts.push({id, username, content});
   res.redirect('/posts');
-})
+});
 
 app.patch('/posts/:id', (req, res) => {
   let {id} = req.params;
